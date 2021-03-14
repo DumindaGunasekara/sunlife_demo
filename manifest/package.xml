@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Package xmlns="http://soap.sforce.com/2006/04/metadata">
+    <types>
+        <members>AccountController</members>
+        <name>ApexClass</name>
+    </types>
+    <types>
+        <members>financialservice_accountListing</members>
+        <name>LightningComponentBundle</name>
+    </types>
+    <types>
+        <members>Account</members>
+        <name>SharingRules</name>
+    </types> 
+    <types>
+        <members>Account</members>
+        <name>CustomObject</name>
+    </types>      
+    <types>
+        <members>Sunlife Profile</members>
+        <name>Profile</name>
+    </types>   
+    <types>
+        <members>Account.Industry</members>
+        <name>CustomField</name>
+    </types>
+    <types>
+        <members>SunLife</members>
+        <name>CustomApplication</name>
+    </types>  
+    <types>
+        <members>Financial_Accounts</members>
+        <name>CustomTab</name>
+    </types>                   
+    <version>51.0</version>
+</Package>
